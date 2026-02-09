@@ -29,9 +29,6 @@
     </a> 
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilajb&show_icons=true&locale=en&layout=compact" alt="gilajb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilajb&" alt="gilajb" /></p>
 
 <!--
 - 🔭 I’m currently working on ...
