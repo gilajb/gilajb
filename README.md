@@ -3,12 +3,12 @@
 💻 **Student Programmer | Aspiring Software Developer**
 
 I’m a student passionate about programming and problem-solving. I enjoy learning by building projects, experimenting with code, and improving my skills step by step.
-<hr>
+
 ## 🛠️ Tech Stack
 Languages: HTML, CSS, Bootstrap
 Skills: Problem-solving, debugging, logical thinking, clean code
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -25,17 +25,6 @@ Skills: Problem-solving, debugging, logical thinking, clean code
 * Learn, build, and collaborate
 
 ---
-
-If you want, I can:
-
-* Make it **even shorter (1–2 sections only)**
-* Add **GitHub stats & badges**
-* Customize it for **web dev**, **computer engineering**, or **electronics**
-* Style it like a **professional developer profile**
-
-Just say the word 😄
-
-
 
 <!--
 - 🔭 I’m currently working on ...
