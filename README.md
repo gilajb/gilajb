@@ -4,11 +4,13 @@
 
 I’m a student passionate about programming and problem-solving. I enjoy learning by building projects, experimenting with code, and improving my skills step by step.
 
+---
+
 ## 🛠️ Tech Stack
 Languages: HTML, CSS, Bootstrap
 Skills: Problem-solving, debugging, logical thinking, clean code
 
-
+---
 
 ## 🌱 Currently Learning
 
