@@ -11,9 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  GitHub : gilajb
-<br>
-  Mail : cjoybett@gmail.com
+  <ul>
+    <li>GitHub : <a href="https://github.com/gilajb">gilajb</a></li>
+    <li>Mail : **cjoybett@gmail.com**</li>
+  </ul>
+  
 </p>
 
   <h3 align="left">Languages and Tools:</h3>
