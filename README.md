@@ -13,7 +13,7 @@
 <p align="left">
   <ul>
     <li>GitHub : <a href="https://github.com/gilajb">gilajb</a></li>
-    <li>Mail : **cjoybett@gmail.com**</li>
+    <li>Mail : cjoybett@gmail.com</li>
   </ul>
   
 </p>
