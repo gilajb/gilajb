@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Joy Bett</h1>
 <h3 align="center">I’m a student passionate about programming and problem-solving. I enjoy learning by building projects, experimenting with code, and improving my skills step by step.</h3>
 
-- 🔭 I’m currently working on [Python Basics](https://github.com/gilajb/Python-Basics)
+- 🔭 I’m currently working on [](https://github.com/gilajb/Python-Basics)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently studying **Python**
 
 - 👨‍💻 All of my projects are available at [https://gilajb.github.io/Portfolio/](https://gilajb.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS , Bootstrap**
+- 💬 Ask me about **HTML, CSS , Bootstrap, Django, React.js**
 
 - 📫 How to reach me **cjoybett@gmail.com**
 
 - 📄 Know about my experiences [https://gilajb.github.io/Portfolio/resume.html](https://gilajb.github.io/Portfolio/resume.html)
 
-- ⚡ Fun fact **I prefer dark mode because light attracts bugs.**
+- Fun fact **I prefer dark mode because light attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
