@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [](https://github.com/gilajb/Python-Basics)
 
-- 🌱 I’m currently studying **Python**
+- 🌱 I’m currently studying **Backend Engineering**
 
 - 👨‍💻 All of my projects are available at [https://gilajb.github.io/Portfolio/](https://gilajb.github.io/Portfolio/)
 
