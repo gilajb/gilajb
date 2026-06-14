@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-I am a full-stack developer passionate about building impactful digital solutions that solve real-world problems. I work across both frontend and backend technologies, creating responsive user experiences and scalable systems. My interests extend beyond coding to using technology for social good, particularly in healthcare and community-driven innovation. I enjoy turning ideas into functional products, collaborating with teams, and continuously learning new tools and frameworks to build better software.
+I am a full-stack developer passionate about building impactful digital solutions that solve real-world problems. I work across both frontend and backend technologies, creating responsive user experiences and scalable systems. My interests extend beyond coding to using technology for social good, particularly in healthcare and community-driven innovation - founding/ co-founding multiple startups like WasteLoop,and JamiiAfya. I enjoy turning ideas into functional products, collaborating with teams, and continuously learning new tools and frameworks to build better software.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [cjoybett@gmail.com](mailto:cjoybett@gmail.com)
