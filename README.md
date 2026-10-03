@@ -8,7 +8,7 @@ I am a full-stack developer passionate about building impactful digital solution
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [cjoybett@gmail.com](mailto:cjoybett@gmail.com)
-* 🚀  I'm currently working on [576.39 company portfolio](http://57639-theta.vercel.app/)
+* 🚀  I'm currently working on [Mission Monday website]((https://missions.gloriousphotography.co.ke/)) and [SisterCircle+]((https://sister-circle-plus.vercel.app/))
 * 👥  I'm looking to collaborate on FemTech, HealthTech and ClimateTech projects
 * 💬  Ask me about FUN FACT : I prefer dark mode because light attracts bugs.
 
